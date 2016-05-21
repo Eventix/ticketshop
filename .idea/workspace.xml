@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/stylesheets/main.scss" description="// 1. Configuration and helpers&#10;@import&#10;'abstracts..." line="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c62d70f-a17a-4d61-97b6-87dedec862d9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-dropdownjs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-nouislider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-selectize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/1c32c7092ed73d9a5b0ba05b078e6232713c4675/_plugin-snackbarjs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/1e1dcca864a2e0edda6f7669ac643f268c880fdc/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_bootstrap-material-design.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_cards.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_checkboxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_dialogs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_dividers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_icons-material-design.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_icons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_import-bs-less.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_import-bs-sass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_inputs-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_inputs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_mixins-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_plugins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_popups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_progress.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_radios.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_shadows.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_tabs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_themes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_togglebutton.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/_welljumbo.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/bootstrap-material-design.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/4661e7cdeb80c77fec0a9b3cbdad9be18ebb890d/ripples.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_cards.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_checkboxes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_colors.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_core.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_dialogs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_dividers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_form.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_import-bs-less.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_import-bs-sass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_inputs-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_inputs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_lists.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_mixins-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_plugins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_popups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_progress.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_radios.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_shadows.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_tabs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_themes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_togglebutton.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/_welljumbo.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/bootstrap-material-design.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/a884eb6446327b2f061511ee0899db705944e6f8/ripples.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-dropdownjs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-nouislider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-selectize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/c36839dada9a9d443e1edf3341e7ef0b9ca910a2/_plugin-snackbarjs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.sass-cache/d2594f1532324eab51442ffb8cab857877968446/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/demo/imgs/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/demo/imgs/gittip-button.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/demo/imgs/issues-button.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/bootstrap-material-design-3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/libraries/bootstrap_material_design_3_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.ruby-gemset" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/.ruby-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap-sprockets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/javascripts/bootstrap/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-compass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-mincer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap-sprockets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_component-animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_glyphicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_input-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_navs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_thumbnails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_wells.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_reset-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap-sass/sache.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/bower_components/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/bootstrap-material-design.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/bootstrap-material-design.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/bootstrap-material-design.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/bootstrap-material-design.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/ripples.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/ripples.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/ripples.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/css/ripples.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/material.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/material.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/ripples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/ripples.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/js/ripples.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/sassc/bootstrap-material-design.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/sassc/bootstrap-material-design.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/sassc/ripples.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/dist/sassc/ripples.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_cards.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_checkboxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_dialogs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_dividers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_form.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_import-bs-less.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_import-bs-sass.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_inputs-size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_inputs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_lists.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_plugins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_popups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_progress.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_radios.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_shadows.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_tabs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_themes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_togglebutton.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/_welljumbo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/bootstrap-material-design.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/plugins/_plugin-dropdownjs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/plugins/_plugin-nouislider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/plugins/_plugin-selectize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/plugins/_plugin-snackbarjs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/less/ripples.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/.meteor/packages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/.meteor/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/client/bmd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/client/bmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/client/bmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/example/run.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/meteor/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_checkboxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_colors-map.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_dialogs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_dividers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_form.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-less.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-sass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_inputs-size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_inputs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_lists.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_mixins-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_plugins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_popups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_radios.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_shadows.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_themes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_togglebutton.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_welljumbo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/bootstrap-material-design.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/plugins/_plugin-dropdownjs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/plugins/_plugin-nouislider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/plugins/_plugin-selectize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/plugins/_plugin-snackbarjs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/ripples.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/scripts/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/scripts/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/scripts/material.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/scripts/ripples.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/test/materialSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/test/ripplesSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/testcase.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="ticketshop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ticketshop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-material-design.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/bootstrap-material-design.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_import-bs-sass.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-sass.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_import-bs-less.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-less.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2839">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/node_modules/bootstrap-material-design/sass/_import-bs-sass.scss" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/stylesheets/main.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="C:\xampp\php\PEAR" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1060" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticketshop" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ticketshop\stylesheets\vendor" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c62d70f-a17a-4d61-97b6-87dedec862d9" name="Default" comment="" />
+      <created>1463853090012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463853090012</updated>
+      <workItem from="1463853091576" duration="4548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1060" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31744313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3249453" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2839">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/node_modules/bootstrap/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/bootstrap-material-design.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-less.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/sass/_import-bs-sass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/vendor/bootstrap-material-design/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
