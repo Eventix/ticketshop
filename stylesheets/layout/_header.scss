@@ -2,10 +2,11 @@
 
   .header {
 
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
+    z-index: 5;
 
     .top-nav {
 
@@ -115,52 +116,6 @@
 
       }
 
-    }
-
-    .filters {
-      background: $color-secondary;
-      color: $color-secondary-text;
-
-      ul {
-        width: 100%;
-
-        li {
-
-          &.open {
-            position: static;
-            color: black;
-
-            > a {
-              background: rgba(255, 255, 255, 0.2);
-            }
-          }
-
-          width: percentage(1/4);
-
-          > a {
-            text-align: center;
-            padding: 10px;
-
-            > .mdi {
-              font-size: 2em;
-            }
-
-            > span:not(.mdi) {
-              text-transform: uppercase;
-              font-size: 0.7em;
-              display: block;
-              width: 100%;
-            }
-          }
-
-          .dropdown-menu {
-            background: lighten($color-secondary, 5%);
-            left: 0;
-            right: 0;
-            border-radius: 0;
-          }
-        }
-      }
     }
 
   }

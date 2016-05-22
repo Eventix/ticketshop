@@ -1,0 +1,85 @@
+.app {
+
+  .filters {
+    background: $color-secondary;
+    color: $color-secondary-text;
+
+    ul {
+      width: 100%;
+
+      li {
+
+        &.open {
+          position: static;
+          color: black;
+
+          > a {
+            background-color: rgba(255, 255, 255, 0.2) !important;
+          }
+        }
+
+        width: percentage(1/4);
+
+        > a {
+          text-align: center;
+          padding: 10px;
+
+          > .mdi {
+            font-size: 2em;
+          }
+
+          > span:not(.mdi) {
+            text-transform: uppercase;
+            font-size: 0.7em;
+            display: block;
+            width: 100%;
+          }
+        }
+
+        .dropdown-menu {
+          background: lighten($color-secondary, 5%);
+          left: 0;
+          right: 0;
+          border-radius: 0;
+          box-shadow: none;
+
+          &.filter-price {
+
+            .filter-price-label {
+              font-size: 2.5em;
+              text-align: center;
+            }
+
+            .slider {
+              width: 70%;
+              height: 5px;
+              margin: auto;
+              background: $color-primary;
+
+              .noUi-background {
+                background: $color-primary;
+              }
+
+              .noUi-handle {
+                background: $color-action;
+                border: $color-action;
+                width: 18px;
+                height: 18px;
+              }
+
+              .noUi-connect {
+                background: $color-action;
+              }
+
+              .noUi-origin {
+                height: 5px;
+              }
+            }
+
+          }
+
+        }
+      }
+    }
+  }
+}

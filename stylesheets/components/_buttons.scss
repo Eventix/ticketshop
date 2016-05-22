@@ -1,3 +1,20 @@
-.btn, .input-group-btn .btn {
-  border-radius: 0;
+.app {
+
+  .btn, .input-group-btn .btn {
+    border-radius: 0;
+  }
+
+  .btn.btn-primary, .btn-raised.btn-primary {
+    background-color: $color-action;
+    color: $color-action-text;
+
+    &:active, &:focus, &:hover {
+      background-color: darken($color-action, 10%);
+
+      &:not(.btn-link) {
+        background-color: darken($color-action, 10%);
+      }
+    }
+  }
+
 }

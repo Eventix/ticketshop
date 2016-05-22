@@ -1,0 +1,4 @@
+.hexagon {
+  //clip-path: url(#hexagon-clip);
+  @include clippath(url('#hexagon-clip'));
+}

@@ -1,0 +1,84 @@
+.app {
+
+  .event-list {
+    margin-top: 120px;
+    margin-bottom: 72px;
+    padding: 0;
+  }
+
+  .event-list-item {
+    border-bottom: 1px #aaa solid;
+    display: block;
+    padding: 1em;
+    height: 110px;
+
+    a {
+      color: black;
+      width: 100%;
+      height: 100%;
+    }
+
+    .icon {
+      float: left;
+      height: 70px;
+      width: 70px;
+      margin-right: 1em;
+      margin-top: 0.4em;
+    }
+
+    .info-container {
+      height: 100%;
+      width: -moz-calc(100% - 80px - 30px);
+      width: -webkit-calc(100% - 80px - 30px);
+      width: calc(100% - 80px - 30px);
+      display: inline-flex;
+      align-items: center;
+
+      .info {
+        font-size: 0.8em;
+        width: 100%;
+
+        > p {
+          margin: 0;
+          display: block;
+        }
+
+        > .title {
+          text-transform: uppercase;
+          font-size: 1.3em;
+          margin-top: 0;
+          margin-bottom: 0.2em;
+          font-weight: bold;
+        }
+      }
+
+
+    }
+
+    .go {
+      color: $color-action;
+      font-size: 3.5em;
+      display: inline-block;
+      float: right;
+      width: 20px;
+      height: 100%;
+      margin-bottom: 0;
+      padding-top: 7px;
+
+      .mdi {
+        margin-left: -15px;
+
+      }
+    }
+
+    > * {
+      float: left;
+      display: block;
+      height: 100%;
+    }
+
+
+
+  }
+
+}
