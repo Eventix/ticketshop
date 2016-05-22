@@ -7,110 +7,160 @@
     left: 0;
     right: 0;
 
-    background: $color-primary;
-    color: $color-primary-text;
+    .top-nav {
 
-    .search-form {
+      background: $color-primary;
+      color: $color-primary-text;
 
-      margin: 0;
-      padding: 0;
-      border: none;
-      float: left;
+      .search-form {
 
-      .search-button {
-        background: white;
         margin: 0;
-        font-size: 2em;
         padding: 0;
-        height: 50px;
-        width: 50px;
-      }
+        border: none;
+        float: left;
 
-      .search-box {
-        display: none;
-      }
-
-      &.active {
-
-        width: 100%;
-
-        &~ * {
-          display: none; // remove all siblings
+        .search-button {
+          background: white;
+          margin: 0;
+          font-size: 2em;
+          padding: 0;
+          height: 50px;
+          width: 50px;
         }
 
         .search-box {
-          display: block;
-          width: 100%;
-          position: absolute;
-          left: 50px;
-          top: 0;
+          display: none;
+        }
 
-          input {
-            height: 50px;
-            background: white;
+        &.active {
+
+          width: 100%;
+
+          & ~ * {
+            display: none; // remove all siblings
+          }
+
+          .search-box {
+            display: block;
             width: 100%;
-            color: black;
-            @include placeholder(black);
+            position: absolute;
+            left: 50px;
+            top: 0;
+
+            input {
+              height: 50px;
+              background: white;
+              width: 100%;
+              color: black;
+              @include placeholder(black);
+            }
+          }
+
+          .search-close {
+            display: block;
+            position: absolute;
+            right: 50px;
+            top: 0;
+            width: 50px;
+            height: 50px;
+            z-index: 5;
+            font-size: 1.5em;
+            padding: 0;
+            margin: 0;
           }
         }
 
-        .search-close {
-          display: block;
-          position: absolute;
-          right: 50px;
-          top: 0;
-          width: 50px;
-          height: 50px;
-          z-index: 5;
-          font-size: 1.5em;
-          padding: 0;
-          margin: 0;
-        }
       }
 
-    }
-
-    h1 {
-      font-size: 1em;
-      float: left;
-      line-height: 31px;
-      margin-left: 1em;
-    }
-
-    ul.navbar-right {
-
-      float: right;
-
-      > li {
+      h1 {
+        font-size: 1em;
         float: left;
+        line-height: 31px;
+        margin-left: 1em;
+      }
 
-        a {
-          padding: 15px 10px;
+      ul.navbar-right {
+
+        float: right;
+
+        > li {
+          float: left;
+
+          a {
+            padding: 15px 10px;
+          }
+
+        }
+
+        .cart {
+
+          width: 50px;
+
+          a {
+            padding: 5px 5px;
+            text-align: center;
+          }
+
+          .mdi {
+            font-size: 1.6em;
+          }
+
+          .amount {
+            margin-top: -5px;
+            color: $color-action;
+            font-size: 0.7em;
+            display: block;
+          }
         }
 
       }
 
-      .cart {
+    }
 
-        width: 50px;
+    .filters {
+      background: $color-secondary;
+      color: $color-secondary-text;
 
-        a {
-          padding: 5px 5px;
-          text-align: center;
-        }
+      ul {
+        width: 100%;
 
-        .mdi {
-          font-size: 1.6em;
-        }
+        li {
 
-        .amount {
-          margin-top: -5px;
-          color: $color-action;
-          font-size: 0.7em;
-          display: block;
+          &.open {
+            position: static;
+            color: black;
+
+            > a {
+              background: rgba(255, 255, 255, 0.2);
+            }
+          }
+
+          width: percentage(1/4);
+
+          > a {
+            text-align: center;
+            padding: 10px;
+
+            > .mdi {
+              font-size: 2em;
+            }
+
+            > span:not(.mdi) {
+              text-transform: uppercase;
+              font-size: 0.7em;
+              display: block;
+              width: 100%;
+            }
+          }
+
+          .dropdown-menu {
+            background: lighten($color-secondary, 5%);
+            left: 0;
+            right: 0;
+            border-radius: 0;
+          }
         }
       }
-
     }
 
   }
