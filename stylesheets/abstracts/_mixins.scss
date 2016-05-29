@@ -17,3 +17,11 @@
   -webkit-clip-path: $path;
   clip-path: $path;
 }
+
+@mixin blur($size) {
+  -webkit-filter: blur($size);
+  -moz-filter: blur($size);
+  -o-filter: blur($size);
+  -ms-filter: blur($size);
+  filter: blur($size);
+}

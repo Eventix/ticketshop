@@ -32,8 +32,9 @@
 'components/buttons',
 'components/eventlist',
 'components/hexagon',
+'components/nav-chevron',
 'components/filters';
 //
-//// 6. Page-specific styles
-//@import
-//'pages/home';
+// 6. Page-specific styles
+@import
+'pages/event-overview';
