@@ -1,0 +1,11 @@
+.checkbox input[type=checkbox]:checked + .checkbox-material .check {
+  &:before {
+    color: $color-primary;
+  }
+  color: $color-primary;
+  border-color: $color-primary;
+}
+
+.checkbox-material {
+  margin-right: 0.5em;
+}

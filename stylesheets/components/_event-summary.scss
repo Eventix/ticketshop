@@ -1,0 +1,44 @@
+$summary-height: 75px;
+$header-height: 98px;
+
+.event-summary-background-outer {
+  height: $summary-height;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: $header-height;
+  width: 100%;
+  z-index: -50;
+  overflow: hidden;
+}
+
+.event-summary-background {
+  background-size: cover;
+  background-position: center;
+  @include blur(30px);
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100%;
+  height: $summary-height;
+  position: absolute;
+}
+
+.event-summary {
+  color: white;
+  text-shadow: 2px 1px 4px rgba(0, 0, 0, 0.5);
+  padding: 0.5em 1em;
+
+  h2 {
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+  }
+
+  ul {
+    font-size: 0.9em;
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 0;
+  }
+}

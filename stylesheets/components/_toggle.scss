@@ -1,0 +1,19 @@
+.app {
+
+  .togglebutton {
+    label {
+      input[type=checkbox] {
+        &:checked {
+          + .toggle {
+            background-color: rgba($color-action, 0.5);
+
+            &:after {
+              background-color: $color-action;
+            }
+          }
+        }
+      }
+    }
+  }
+
+}

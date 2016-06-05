@@ -1,0 +1,32 @@
+.app.personal-details {
+
+  $header-height: 98px;
+
+  .content {
+    margin-top: $header-height;
+
+    .control-label {
+      padding-left: 2em;
+      color: $color-primary;
+      width: 100%;
+
+      .form-group {
+        font-size: 2em;
+        margin-top: 0;
+
+        > .form-control {
+          width: calc(100% - 70px);
+          float: right;
+          margin-right: 2em;
+          margin-top: -0.5em;
+        }
+      }
+    }
+
+    .checkbox {
+      padding-left: 2em;
+      margin-bottom: 1.5em;
+    }
+  }
+
+}

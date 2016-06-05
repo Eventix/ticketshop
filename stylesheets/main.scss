@@ -35,9 +35,14 @@
 'components/hexagon',
 'components/nav-chevron',
 'components/checkout-breadcrumb',
-'components/filters';
+'components/filters',
+'components/text-input',
+'components/toggle',
+'components/checkbox',
+'components/event-summary';
 //
 // 6. Page-specific styles
 @import
 'pages/event-overview',
-'pages/ticket-selection';
+'pages/ticket-selection',
+'pages/personal-details';

@@ -5,6 +5,7 @@
   height: 3.4em;
   width: 100%;
   margin-bottom: 0;
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
 
   li {
 
@@ -57,12 +58,12 @@
     &::after {
       background: $color-secondary;
       content: "";
-      height: 2.6em;
-      margin-top: -1.35em;
+      height: 2.68em;
+      margin-top: -1.30em;
       position: absolute;
       right: -1.2em;
       top: 50%;
-      width: 2.6em;
+      width: 2.68em;
       z-index: 1;
       transform: rotate(45deg);
       border-radius: .4em;
