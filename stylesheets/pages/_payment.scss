@@ -1,0 +1,69 @@
+.app.payment {
+
+  $header-height: 98px;
+
+  .content {
+    margin-top: $header-height;
+
+    .panel-group {
+
+      .panel {
+        box-shadow: none;
+
+        .panel-heading {
+          background: $color-secondary;
+          .panel-title {
+            font-size: 1.3em;
+          }
+        }
+
+        .panel-body {
+          background: lighten($color-secondary, 7%);
+          border: none;
+          padding: 5px 15px;
+
+          ul {
+            padding-left: 0;
+            font-size: 1.2em;
+
+            li {
+              list-style: none;
+
+              span {
+                margin-right: 1em;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .form-group.is-focused label, .form-group.is-focused label.control-label {
+      color: $color-primary;
+    }
+
+    .form-group {
+      margin: 1.5em;
+
+      &.inner-select {
+        margin: 0;
+      }
+
+      label {
+        color: $color-primary;
+      }
+    }
+
+    .notice {
+      font-size: 0.8em;
+      padding: 2em;
+
+      .mdi {
+        font-size: 2.5em;
+        float: left;
+        margin-right: 0.5em;
+      }
+    }
+  }
+
+}

@@ -1,3 +1,7 @@
 body {
   background: white;
 }
+
+a, a:hover, a:focus {
+  color: $color-primary;
+}
