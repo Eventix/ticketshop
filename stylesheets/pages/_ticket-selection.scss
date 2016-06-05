@@ -1,0 +1,42 @@
+.app.ticket-selection {
+
+  ul.tickets {
+    padding-left: 0;
+
+    li.ticket {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  $header-height: 98px;
+
+  .content {
+    margin-top: $header-height;
+  }
+
+  .event-summary-background-outer {
+    height: $header-height;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: $header-height;
+    width: 100%;
+    z-index: -50;
+    //border: 1px solid transparent;
+    overflow: hidden;
+  }
+
+  .event-summary-background {
+    background-size: cover;
+    background-position: center;
+    @include blur(30px);
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: $header-height;
+    position: absolute;
+  }
+
+}

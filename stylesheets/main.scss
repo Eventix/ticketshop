@@ -24,6 +24,7 @@
 //// 4. Layout-related sections
 @import
 'layout/header',
+'layout/content',
 'layout/footer';
 //
 // 5. Components
@@ -33,8 +34,10 @@
 'components/eventlist',
 'components/hexagon',
 'components/nav-chevron',
+'components/checkout-breadcrumb',
 'components/filters';
 //
 // 6. Page-specific styles
 @import
-'pages/event-overview';
+'pages/event-overview',
+'pages/ticket-selection';

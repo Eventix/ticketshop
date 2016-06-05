@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Event overview | Ticketshop</title>
+  <title>Ticket selection | Ticketshop</title>
 
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
   <link href="css/main.css" rel="stylesheet" />
 </head>
-<body class="app event-overview">
+<body class="app ticket-selection">
 <header class="header">
   <nav class="header-nav navbar top-nav">
     <div class="container-fluid">
 
       <button type="button" class="btn btn-default nav-chevron">
-        <a href="event-selection.html">
+        <a href="event-overview.html">
         <i class="mdi mdi-chevron-left" aria-hidden="true"></i>
         <span class="sr-only">Previous page</span></a>
       </button>
@@ -82,7 +82,7 @@
           <a href="javascript:void(0)">
             <i class="mdi mdi-cart-outline" aria-hidden="true"></i>
             <span class="amount">
-              &euro;0,00
+              &euro;284,95
             </span>
           </a>
         </li>
@@ -91,35 +91,75 @@
     </div>
   </nav>
 
+  <ol class="checkout breadcrumb">
+    <li class="active">
+      <span class="number">1</span>
+      <span class="title">Ticket selection</span>
+    </li>
+    <li class="">
+      <span class="number">2</span>
+      <span class="title">Personal details</span>
+    </li>
+    <li>
+      <span class="number">3</span>
+      <span class="title">Payment</span>
+    </li>
+  </ol>
+
 </header>
 
 <section class="content">
-  <div class="jumbotron-background-outer">
-    <div class="jumbotron-background"
+  <div class="event-summary-background-outer">
+    <div class="event-summary-background"
          style="background-image: url('img/coldplay2.jpg');">
     </div>
   </div>
-  <div class="jumbotron">
-    <img src="img/coldplay2.jpg" class="img-responsive" />
+  <div class="event-summary">
     <h2>Coldplay</h2>
+    <ul class="details">
+      <li>
+        <span class="mdi mdi-map-marker" aria-hidden="true"></span> Amsterdam Arena, Amsterdam
+      </li>
+      <li>
+        <span class="mdi mdi-calendar-blank" aria-hidden="true"></span> Wednesday 12th of May, 2016 | 18:45
+      </li>
+    </ul>
   </div>
 
-  <ul class="event-details">
-    <li>
-      <span class="mdi mdi-star" aria-hidden="true"></span> A Head Full Of Dreams Tour
-    </li>
-    <li>
-      <span class="mdi mdi-map-marker" aria-hidden="true"></span> Amsterdam Arena, Amsterdam
-    </li>
-    <li>
-      <span class="mdi mdi-calendar-blank" aria-hidden="true"></span> Wednesday 12th of May, 2016 | 18:45
+  <h3>Tickets</h3>
+  <ul class="tickets">
+    <li class="ticket row">
+      <div class="ticket-title col-md-5">
+        <h4>Early Bird <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+        <p class="info">Service costs &euro;&nbsp;1,00 per ticket</p>
+      </div>
+      <div class="ticket-amount col-md-3">
+        <button class="btn btn-primary btn-fab">
+          <span class="mdi mdi-plus" aria-hidden="true"></span>
+          <span class="sr-only">+</span>
+        </button>
+        <span class="ticket-amount-chosen">
+          4
+        </span>
+        <button class="btn btn-primary btn-fab">
+          <span class="mdi mdi-minus" aria-hidden="true"></span>
+          <span class="sr-only">-</span>
+        </button>
+      </div>
+      <div class="ticket-cost col-md-4">
+        <span class="sum">
+          4 X &euro;&nbsp;69,00
+        </span>
+        <span class="total">
+          &euro;&nbsp;276,00
+        </span>
+      </div>
     </li>
   </ul>
 
+
   <div class="text-center">
-    <a href="ticket-selection.html">
-      <button class="btn btn-raised btn-primary">View tickets</button>
-    </a>
+    <button class="btn btn-raised btn-primary">Continue</button>
   </div>
 </section>
 
