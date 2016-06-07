@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/gafderks/ticketshop#readme",
   "dependencies": {
-    "flag-icon-css": "^2.3.0",
     "mdi": "^1.6.50"
   }
 }
