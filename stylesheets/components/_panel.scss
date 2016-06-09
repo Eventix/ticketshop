@@ -1,11 +1,12 @@
 .panel-heading a {
   &:after {
-    font-family: 'Glyphicons Halflings';
-    content: "\e114";
+    font-family: "Material Design Icons";
+    content: "\F143";
     float: right;
     color: white;
   }
   &.collapsed:after {
-    content: "\e080";
+    font-family: "Material Design Icons";
+    content: "\F142";
   }
 }
