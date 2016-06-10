@@ -10,6 +10,75 @@
   <link href="css/main.css" rel="stylesheet" />
 </head>
 <body class="app ticket-selection">
+<aside class="sidebar" id="basket">
+  <div class="overlay toggle" data-target="#basket" data-toggle="open"></div>
+  <div class="bar">
+    <header>
+      <h2>My Items</h2>
+      <div class="cart">
+        <a href="javascript:void(0)" class="toggle" data-target="#basket" data-toggle="open">
+          <i class="mdi mdi-cart-outline" aria-hidden="true"></i>
+          <span class="amount">
+            &euro;284,95
+          </span>
+        </a>
+      </div>
+    </header>
+
+    <div class="event-summary-background-outer">
+      <div class="event-summary-background"
+           style="background-image: url('img/coldplay2.jpg');">
+      </div>
+    </div>
+    <div class="event-summary">
+      <h2>Coldplay</h2>
+      <ul class="details">
+        <li>
+          <span class="mdi mdi-map-marker" aria-hidden="true"></span> Amsterdam Arena, Amsterdam
+        </li>
+        <li>
+          <span class="mdi mdi-calendar-blank" aria-hidden="true"></span> 12-05-2016 at 18:45
+        </li>
+      </ul>
+    </div>
+
+    <ul class="ordered-tickets">
+      <li>
+        <div class="item">
+          4 x Early Bird
+        </div>
+        <div class="cost">
+          &euro;&nbsp;276,00
+        </div>
+        <div class="coupon">
+          Coupon applied <span class="mdi mdi-check" aria-hidden="true"></span>
+        </div>
+      </li>
+      <li>
+        <div class="item">
+          Insurance
+        </div>
+        <div class="cost">
+          &euro;&nbsp;4,95
+        </div>
+      </li>
+      <li class="total">
+        <div class="item">
+          Total price
+        </div>
+        <div class="cost">
+          &euro;&nbsp;284,95
+        </div>
+      </li>
+    </ul>
+
+    <div class="text-center">
+      <a href="ticket-selection.html">
+        <button class="btn btn-raised btn-primary">Edit items</button>
+      </a>
+    </div>
+  </div>
+</aside>
 <header class="header">
   <nav class="header-nav navbar top-nav">
     <div class="container-fluid">
@@ -67,7 +136,7 @@
           </ul>
         </li>
         <li class="cart">
-          <a href="javascript:void(0)">
+          <a href="javascript:void(0)" class="toggle" data-target="#basket" data-toggle="open">
             <i class="mdi mdi-cart-outline" aria-hidden="true"></i>
             <span class="amount">
               &euro;284,95
@@ -292,6 +361,10 @@
 <script type="application/javascript" src="js/material.js"></script>
 <script>
   $.material.init();
+
+  $(".toggle").click(function() {
+    $($(this).data('target')).toggleClass($(this).data('toggle'));
+  })
 </script>
 <script type="application/javascript" src="js/ripples.js"></script>
 

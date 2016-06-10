@@ -1,12 +1,12 @@
 .panel-heading a {
   &:after {
-    font-family: "Material Design Icons";
+    font-family: "Material Design Icons", sans-serif;
     content: "\F143";
     float: right;
     color: white;
   }
   &.collapsed:after {
-    font-family: "Material Design Icons";
+    font-family: "Material Design Icons", sans-serif;
     content: "\F142";
   }
 }
