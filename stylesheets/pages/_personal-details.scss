@@ -23,6 +23,21 @@
       }
     }
 
+    .separator {
+      width: 100%;
+      text-align: center;
+      border-bottom: 1px solid lightgray;
+      line-height: 0.1em;
+      margin: 10px 0 20px;
+
+      span {
+        background: white;
+        padding: 0 10px;
+        text-transform: uppercase;
+        color: lightgray;
+      }
+    }
+
     .checkbox {
       padding-left: 2em;
       margin-bottom: 1.5em;
