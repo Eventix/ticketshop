@@ -41,7 +41,8 @@
 'components/checkbox',
 'components/panel',
 'components/radio',
-'components/event-summary';
+'components/event-summary',
+'components/order-details';
 //
 // 6. Page-specific styles
 @import
@@ -49,4 +50,5 @@
 'pages/ticket-selection',
 'pages/personal-details',
 'pages/payment',
-'pages/confirmation';
+'pages/confirmation',
+'pages/my-order';

@@ -1,0 +1,60 @@
+.app.my-order {
+
+  $header-height: 50px;
+
+  .content {
+    margin-top: $header-height;
+
+    p {
+      font-size: 1.2em;
+
+      strong {
+        font-size: 1.3em;
+      }
+
+      a {
+        color: $color-action;
+      }
+    }
+
+    .event-summary-background-outer {
+      top: $header-height;
+    }
+
+
+    .my-order-details {
+      list-style: none;
+      padding-left: 0;
+
+      li {
+        border-bottom: lightgrey 1px solid;
+        padding: 0.7em;
+
+        .left {
+          display: inline;
+          font-weight: bold;
+        }
+
+        .right {
+          float: right;
+        }
+
+        .success {
+          color: green;
+        }
+      }
+
+    }
+
+    p {
+      padding: 1em;
+
+      a {
+        color: $color-action;
+      }
+    }
+
+
+  }
+
+}
