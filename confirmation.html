@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Payment | Ticketshop</title>
+  <title>Confirmation | Ticketshop</title>
 
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
 
   <link href="css/main.css" rel="stylesheet" />
 </head>
-<body class="app payment">
+<body class="app confirmation">
 <aside class="sidebar" id="basket">
   <div class="overlay toggle" data-target="#basket" data-toggle="open"></div>
   <div class="bar">
@@ -87,12 +87,12 @@
     <div class="container-fluid">
 
       <button type="button" class="btn btn-default nav-chevron">
-        <a href="personal-details.html">
+        <a href="payment.html">
         <i class="mdi mdi-chevron-left" aria-hidden="true"></i>
         <span class="sr-only">Previous page</span></a>
       </button>
 
-      <h1 class="page-title">Coldplay</h1>
+      <h1 class="page-title">Confirmation</h1>
 
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
@@ -150,29 +150,6 @@
 
     </div>
   </nav>
-
-  <ol class="checkout breadcrumb">
-    <li class="completed">
-      <a href="ticket-selection.html">
-        <span class="number">1</span>
-        <span class="mdi mdi-check" aria-hidden="true"></span>
-        <span class="title">Ticket selection</span>
-      </a>
-    </li>
-    <li class="completed">
-      <a href="personal-details.html">
-        <span class="number">2</span>
-        <span class="mdi mdi-check" aria-hidden="true"></span>
-        <span class="title">Personal details</span>
-      </a>
-    </li>
-    <li class="active">
-      <span class="number">3</span>
-      <span class="mdi mdi-check" aria-hidden="true"></span>
-      <span class="title">Payment</span>
-    </li>
-  </ol>
-
 </header>
 
 <section class="content">
@@ -224,50 +201,23 @@
     </div>
   </div>
 
-  <div class="form-group">
-    <div class="radio radio-primary radio-panel">
-      <label>
-        <input type="radio" name="paymentMethod" id="paymentMethod-iDeal" value="ideal" checked>
-        iDeal
-        <div class="form-group inner-select">
-          <select id="iDeal-bank" class="form-control">
-            <option disabled selected>Choose your bank</option>
-            <option>Rabobank</option>
-            <option>SNS Bank</option>
-            <option>ASN Bank</option>
-            <option>RegioBank</option>
-            <option>Triodos Bank</option>
-            <option>Knab Bank</option>
-            <option>Van Laarschot Bankiers</option>
-          </select>
-        </div>
-      </label>
-    </div>
-    <div class="radio radio-primary radio-panel">
-      <label>
-        <input type="radio" name="paymentMethod" id="paymentMethod-PayPal" value="paypal">
-        PayPal
-      </label>
-    </div>
-    <div class="radio radio-primary radio-panel">
-      <label>
-        <input type="radio" name="paymentMethod" id="paymentMethod-creditcard" value="creditcard">
-        Creditcard
-      </label>
-    </div>
-  </div>
+  <h3 class="text-center">Payment successful!</h3>
+  <p class="text-center">
+    Your order is<br/><strong>276334</strong>
+  </p>
 
-  <div class="text-center">
-    <a href="confirmation.html">
-      <button class="btn btn-raised btn-primary">Continue</button>
-    </a>
-  </div>
+  <p class="text-center">
+    Your tickets are being sent to eva.palai@gmail.com.
+  </p>
 
-  <div class="notice">
-    <span class="mdi mdi-alert-circle" aria-hidden="true"></span>
-    Notice: Your tickets are being bought at the organisation of <strong>Coldplay A Head Full Of Dreams Tour</strong>
-    and not at <strong>Eventix.nl</strong>.
-  </div>
+  <p class="text-center">
+    Please check your mailbox.
+  </p>
+
+  <p class="text-center">
+    Not received?<br/><a href="my-order.html">Check your order status</a>.
+  </p>
+
 </section>
 
 
