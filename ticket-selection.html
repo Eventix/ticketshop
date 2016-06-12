@@ -193,7 +193,10 @@
   <ul class="tickets">
     <li class="ticket row">
       <div class="ticket-title col-xs-6">
-        <h4>Early Bird <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+        <h4>Early Bird
+          <span class="mdi mdi-information-outline toggle" aria-hidden="true" data-toggle="open"
+                data-target="#info1"></span>
+        </h4>
         <p class="info">Service costs &euro;&nbsp;1,00 per ticket</p>
       </div>
       <div class="ticket-amount col-xs-3">
@@ -220,9 +223,19 @@
         </span>
       </div>
     </li>
+    <li class="info-box" id="info1">
+      <button class="btn btn-primary btn-fab info-close toggle" data-target="#info1" data-toggle="open">
+        <span class="mdi mdi-close"></span>
+      </button>
+      <h5>Information</h5>
+      <p>
+        Early Bird ticket means... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+    </li>
     <li class="ticket row">
       <div class="ticket-title col-xs-6">
-        <h4>Regular <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+        <h4>Regular <span class="mdi mdi-information-outline toggle" aria-hidden="true" data-toggle="open"
+                          data-target="#info2"></span></h4>
         <p class="info">Service costs &euro;&nbsp;1,00 per ticket</p>
       </div>
       <div class="ticket-amount col-xs-3">
@@ -249,9 +262,21 @@
         </span>
       </div>
     </li>
+    <li class="info-box" id="info2">
+      <button class="btn btn-primary btn-fab info-close toggle" data-target="#info2" data-toggle="open">
+        <span class="mdi mdi-close"></span>
+      </button>
+      <h5>Information</h5>
+      <p>
+        Regular ticket means... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua.
+      </p>
+    </li>
     <li class="ticket row">
       <div class="ticket-title col-xs-6">
-        <h4>VIP <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+        <h4>VIP
+          <span class="mdi mdi-information-outline toggle" aria-hidden="true" data-toggle="open"
+                data-target="#info3"></span></h4>
         <p class="info">Service costs &euro;&nbsp;1,00 per ticket</p>
       </div>
       <div class="ticket-amount col-xs-3">
@@ -278,13 +303,24 @@
         </span>
       </div>
     </li>
+    <li class="info-box" id="info3">
+      <button class="btn btn-primary btn-fab info-close toggle" data-target="#info3" data-toggle="open">
+        <span class="mdi mdi-close"></span>
+      </button>
+      <h5>Information</h5>
+      <p>
+        VIP ticket means... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua.
+      </p>
+    </li>
   </ul>
 
   <h3>Insurance</h3>
   <ul class="tickets">
     <li class="ticket row">
       <div class="ticket-title col-xs-6">
-        <h4>Cancellation insurance <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+        <h4>Cancellation insurance <span class="mdi mdi-information-outline toggle" aria-hidden="true"
+                                         data-target="#info4" data-toggle="open"></span></h4>
       </div>
       <div class="ticket-toggle col-xs-3">
         <div class="togglebutton">
@@ -299,15 +335,39 @@
         </span>
       </div>
     </li>
+    <li class="info-box" id="info4">
+      <button class="btn btn-primary btn-fab info-close toggle" data-target="#info4" data-toggle="open">
+        <span class="mdi mdi-close"></span>
+      </button>
+      <h5>Information</h5>
+      <p>
+        Cancellation insurance means... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua.
+      </p>
+    </li>
   </ul>
 
   <label class="control-label coupon">
-    <h4>Coupon code <span class="mdi mdi-information-outline" aria-hidden="true"></span></h4>
+    <h4>Coupon code
+      <span class="mdi mdi-information-outline toggle" aria-hidden="true" data-target="#info5"
+            data-toggle="open"></span></h4>
     <div class="form-group">
       <span class="mdi mdi-sale" aria-hidden="true"></span>
       <input type="text" class="form-control" placeholder="84561323" />
     </div>
   </label>
+  <ul class="tickets">
+    <li class="info-box" id="info5">
+      <button class="btn btn-primary btn-fab info-close toggle" data-target="#info5" data-toggle="open">
+        <span class="mdi mdi-close"></span>
+      </button>
+      <h5>Information</h5>
+      <p>
+        Coupon code means... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua.
+      </p>
+    </li>
+  </ul>
 
   <div class="text-center order-total">
     Total amount:&nbsp;&euro;&nbsp;<span class="total-amount">284,95</span>

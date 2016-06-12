@@ -44,6 +44,39 @@
       }
       /** End equal height */
 
+      .info-box {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s;
+        background: $color-secondary;
+        color: $color-primary;
+        padding: 0 1em;
+
+        h5 {
+          font-size: 1.2em;
+        }
+
+        &.open {
+          max-height: 200px;
+          overflow: auto;
+          padding: 1em;
+        }
+
+        .info-close {
+          min-width: 24px;
+          float: right;
+          border-radius: 50%;
+          color: $color-secondary;
+          background-color: white;
+          height: 24px;
+          width: 24px;
+          padding: 0;
+          font-weight: bold;
+          line-height: 24px;
+          border: none;
+        }
+      }
+
       .ticket {
         padding: 1em 10px;
         border-bottom: 1px solid lightgray;
