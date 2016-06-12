@@ -9,7 +9,7 @@
 
   <link href="css/main.css" rel="stylesheet" />
 </head>
-<body class="app">
+<body class="app event-selection">
 <aside class="sidebar" id="basket">
   <div class="overlay toggle" data-target="#basket" data-toggle="open"></div>
   <div class="bar">
@@ -171,12 +171,14 @@
             </span>
           </a>
           <div class="dropdown-menu filter-price">
-            <p class="filter-price-label">
+            <p class="filter-price-label no-propagation">
               <span id="filter-price-min">24</span>&euro; -
               <span id="filter-price-max">89</span>&euro;</p>
-            <div id="filter-price" class="slider shor slider-material-orange"></div>
-            <button class="btn btn-raised btn-default">Cancel</button>
-            <button class="btn btn-raised btn-primary">Done</button>
+            <div id="filter-price" class="slider shor slider-material-orange no-propagation"></div>
+            <div class="filter-button-group">
+              <button class="btn btn-raised btn-default">Cancel</button>
+              <button class="btn btn-raised btn-primary">Done</button>
+            </div>
           </div>
         </li>
         <li class="dropdown">
@@ -198,10 +200,19 @@
             </span>
           </a>
           <div class="dropdown-menu">
-            Location menu
+            <label class="control-label no-propagation">
+              <div class="form-group">
+                <span class="mdi mdi-map-marker" aria-hidden="true"></span>
+                <input type="text" class="form-control" placeholder="Amsterdam, Netherlands" />
+              </div>
+            </label>
+            <div class="filter-button-group">
+              <button class="btn btn-raised btn-default">Cancel</button>
+              <button class="btn btn-raised btn-primary">Done</button>
+            </div>
           </div>
         </li>
-        <li class="dropdown">
+        <li class="dropdown open">
           <a href="#" data-target="#" class="dropdown-toggle" data-toggle="dropdown">
             <span class="mdi mdi-ticket"></span>
             <span>
@@ -209,7 +220,36 @@
             </span>
           </a>
           <div class="dropdown-menu">
-            Event type menu
+            <ul class="multiselect no-propagation">
+              <li>
+                <label>
+                  <input type="checkbox" checked name="filter-type" value="concerts">
+                  <span>
+                    Concerts
+                  </span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input type="checkbox" checked name="filter-type" value="theatrical-plays">
+                  <span>
+                    Theatrical plays
+                  </span>
+                </label>
+              </li>
+              <li>
+                <label>
+                  <input type="checkbox" name="filter-type" value="stand-up-comedies">
+                  <span>
+                    Stand-up comedies
+                  </span>
+                </label>
+              </li>
+            </ul>
+            <div class="filter-button-group">
+              <button class="btn btn-raised btn-default">Cancel</button>
+              <button class="btn btn-raised btn-primary">Done</button>
+            </div>
           </div>
         </li>
       </ul>
@@ -362,6 +402,10 @@
   slider.noUiSlider.on('update', function(values, handle) {
     document.getElementById('filter-price-min').textContent = Math.round(values[0]);
     document.getElementById('filter-price-max').textContent = Math.round(values[1]);
+  });
+
+  $('.no-propagation').click(function(event) {
+    event.stopPropagation();
   });
 </script>
 
