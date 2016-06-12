@@ -41,7 +41,7 @@
       height: 1.6em;
       display: inline-block;
       line-height: 1.8em;
-      margin-left: 1em;
+      margin-left: 0.8em;
       margin-right: -1em;
       position: absolute;
       z-index: 2;
@@ -83,10 +83,15 @@
     color: $color-action-text;
     width: 50%;
     text-align: left;
+    padding-left: 3em;
+
+    &:first-of-type {
+      padding-left: 1em;
+    }
 
     + li {
       .number {
-        margin-left: 1em;
+        margin-left: 0.8em;
       }
     }
 
@@ -100,6 +105,18 @@
 
     .title {
       display: inline;
+      margin-top: -14px;
+      height: 100%;
+
+      .title-outer {
+        height: 100%;
+        display: table;
+
+        .title-inner {
+          display: table-cell;
+          vertical-align: middle;
+        }
+      }
     }
 
     &::after {
