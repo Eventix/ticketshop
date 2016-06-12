@@ -25,3 +25,10 @@
   -ms-filter: blur($size);
   filter: blur($size);
 }
+
+@mixin truncate($width) {
+  width: $width;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
