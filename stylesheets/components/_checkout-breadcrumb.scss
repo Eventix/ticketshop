@@ -62,15 +62,15 @@
     &::after {
       background: $color-secondary;
       content: "";
-      height: 2.68em;
-      margin-top: -1.30em;
+      height: 33.656px;
+      margin-top: -16px;
       position: absolute;
       right: -1.2em;
       top: 50%;
-      width: 2.68em;
+      width: 33.656px;
       z-index: 1;
       transform: rotate(45deg);
-      border-radius: .4em;
+      border-radius: 0 .4em 0 0;
       -webkit-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
       -moz-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
       box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
