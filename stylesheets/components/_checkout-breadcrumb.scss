@@ -6,6 +6,7 @@
   width: 100%;
   margin-bottom: 0;
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.1);
+  overflow: hidden;
 
   li {
 
@@ -62,18 +63,21 @@
     &::after {
       background: $color-secondary;
       content: "";
-      height: 33.656px;
-      margin-top: -16px;
+      height: 40px;
+      margin-top: -19px;
       position: absolute;
       right: -1.2em;
       top: 50%;
-      width: 33.656px;
+      width: 40px;
       z-index: 1;
       transform: rotate(45deg);
       border-radius: 0 .4em 0 0;
-      -webkit-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
-      -moz-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
-      box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
+      //-webkit-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
+      //-moz-box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
+      //box-shadow: 3px -4px 5px -3px rgba(0,0,0,0.5);
+      box-shadow: 3px -4px 5px .05px rgba(0, 0, 0, 0.2);
+      -moz-box-shadow: 3px -4px 5px .05px rgba(0, 0, 0, 0.2);
+      -webkit-box-shadow: 3px -4px 5px .05px rgba(0, 0, 0, 0.2);
     }
   }
 
@@ -106,10 +110,10 @@
     .title {
       display: inline;
       margin-top: -14px;
-      height: 100%;
+      height: calc(100% + 2px);
 
       .title-outer {
-        height: 100%;
+        height: calc(100% + 2px);
         display: table;
 
         .title-inner {
