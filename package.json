@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "postinstall": "mkdir css; sass stylesheets/main.scss:css/main.css",
+    "start": "mkdir css; sass -w stylesheets/main.scss:css/main.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
