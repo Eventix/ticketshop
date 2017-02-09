@@ -4,4 +4,14 @@
     background-image: linear-gradient($color-primary, $color-primary), linear-gradient(#D2D2D2, #D2D2D2);
   }
 
+  .form-group {
+    margin: 5px 0 0 0;
+    padding-bottom: 0;
+  }
+
+  label {
+    font-size: 14px;
+    padding-left: 15px;
+  }
+
 }

@@ -1,14 +1,18 @@
+.loading .app .footer {
+  background: $color-gray-dark;
+}
 .app {
 
   .footer {
 
-    position: fixed;
+    position: absolute;
+    height: 50px;
     bottom: 0;
     left: 0;
     right: 0;
     z-index: 1;
 
-    background: $color-primary;
+    background: $color-navy-dark;
     color: $color-primary-text;
 
     .footer-nav {
@@ -38,10 +42,19 @@
     }
 
     .powered {
+      position: absolute;
+      z-index: 10;
+      display: inline-block;
+      top: 13px;
+      left: 5px;
       font-size: 0.7em;
+      border: 0;
       text-align: center;
       padding: 0.4em;
-      border-top: lighten($color-primary, 20%) 1px solid;
+
+      a, a:link, a:visited, a:hover, a:active {
+        color: white;
+      }
     }
 
   }

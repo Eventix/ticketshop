@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/gafderks/ticketshop#readme",
   "dependencies": {
-    "mdi": "^1.6.50"
+    "mdi": "^1.8.36"
   }
 }

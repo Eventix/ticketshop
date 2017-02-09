@@ -1,3 +1,21 @@
+.loading .checkout.breadcrumb {
+  li {
+    background: $color-gray-light;
+
+    &::after {
+      background: $color-gray-light;
+    }
+  }
+
+  li.active {
+    background: $color-gray-normal;
+
+    &::after {
+      background: $color-gray-normal;
+    }
+  }
+}
+
 .checkout.breadcrumb {
 
   padding: 0;
@@ -9,8 +27,7 @@
   overflow: hidden;
 
   li {
-
-    background: $color-secondary;
+    background: $color-blue-normal;
     padding: 1em 3em 1em 1em;
     height: 100%;
     position: relative;
@@ -34,7 +51,7 @@
     }
 
     .number, .mdi-check {
-      color: $color-secondary;
+      color: $color-red-normal;
       background: white;
       border-radius: 50%;
       text-align: center;
@@ -61,7 +78,7 @@
     }
 
     &::after {
-      background: $color-secondary;
+      background: $color-blue-normal;
       content: "";
       height: 40px;
       margin-top: -19px;
@@ -84,7 +101,7 @@
 
   li.active {
 
-    background: $color-action;
+    background: $color-blue-light;
     color: $color-action-text;
     width: 50%;
     text-align: left;
@@ -125,7 +142,7 @@
     }
 
     &::after {
-      background: $color-action;
+      background: $color-blue-light;
     }
   }
 

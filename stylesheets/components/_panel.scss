@@ -1,12 +1,65 @@
-.panel-heading a {
-  &:after {
-    font-family: "Material Design Icons", sans-serif;
-    content: "\F143";
-    float: right;
-    color: white;
+.app {
+  .panel-group {
+    margin: 15px;
+
+    .panel {
+      box-shadow: none;
+    }
+    .panel-heading {
+      padding: 0;
+      border: solid 1px $color-blue-normal;
+
+      .panel-title {
+        font-size: 1.3em;
+        background-color: $color-blue-dark;
+      }
+
+      a {
+        padding: 10px;
+        font-size: 0.9em;
+        z-index: 100;
+        display: block;
+
+        &:focus, &:active {
+          text-decoration: none;
+          border: 0;
+        }
+
+        &::after {
+          display: none;
+        }
+        &::before {
+          display: block;
+          font: normal normal normal 15px/1 FontAwesome;
+          margin-top: 2px;
+          float: right;
+          color: black;
+          z-index: 10;
+          content: "\f0fe";
+        }
+      }
+    }
   }
-  &.collapsed:after {
-    font-family: "Material Design Icons", sans-serif;
-    content: "\F142";
+
+  .panel-open .panel-heading a::after {
+    content: "\F146";
+  }
+
+  .panel-body {
+    background: $color-gray-light;
+    padding: 5px 15px;
+    border: solid 1px $color-gray-normal;
+    ul {
+      padding-left: 0;
+      font-size: 1.2em;
+
+      li {
+        list-style: none;
+
+        span {
+          margin-right: 1em;
+        }
+      }
+    }
   }
 }

@@ -5,14 +5,14 @@
   }
 
   .btn.btn-primary, .btn-raised.btn-primary {
-    background-color: $color-action;
-    color: $color-action-text;
+    background-color: $color-red-normal;
+    color: $color-primary-text;
 
     &:active, &:focus, &:hover {
-      background-color: darken($color-action, 10%);
+      background-color: darken($color-red-light, 10%);
 
       &:not(.btn-link) {
-        background-color: darken($color-action, 10%);
+        background-color: darken($color-red-light, 10%);
       }
     }
   }

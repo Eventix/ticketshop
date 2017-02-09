@@ -12,14 +12,15 @@
   $header-height: 98px;
 
   .content {
-    margin-top: $header-height;
 
     .mdi-information-outline {
       color: lightgray;
     }
 
     h3 {
-      background-color: $color-secondary;
+      background-color: $color-blue-dark;
+      border: solid 1px $color-blue-dark;
+      line-height: 17pt;
       color: black;
       padding: .5em 1em;
       font-size: 1em;
