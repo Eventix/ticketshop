@@ -5,17 +5,3 @@ body {
 a, a:hover, a:focus {
   color: $color-navy-dark;
 }
-
-@media (max-width: 400px) {
-    .visible-sm, .visible-sm-inline, .visible-sm-block, .visible-sm-inline-block {
-        display: none !important;
-    }
-    .hidden-xxs {
-        display: none !important;
-    }
-}
-@media (min-width: 400px) {
-    .visible-xxs {
-        display: none !important;
-    }
-}
