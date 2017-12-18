@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "mkdir css; sass stylesheets/main.scss:css/main.css",
-    "start": "mkdir css; sass -w stylesheets/main.scss:css/main.css",
+    "postinstall": "mkdir css; sass stylesheets/main.scss:css/fancy.css",
+    "start": "mkdir css; sass -w stylesheets/main.scss:css/fancy.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/gafderks/ticketshop#readme",
   "dependencies": {
-    "mdi": "^1.8.36"
+    "mdi": "1.8.36"
   }
 }

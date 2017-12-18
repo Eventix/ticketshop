@@ -82,7 +82,7 @@
         float: left;
         line-height: 31px;
         margin-left: 1em;
-        @include truncate(calc(100% - 215px));
+        @include truncate(calc(100% - 135px));
       }
 
       ul.navbar-right {
