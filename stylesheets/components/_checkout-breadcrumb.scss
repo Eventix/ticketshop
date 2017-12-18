@@ -129,6 +129,10 @@
       display: inline;
       margin-top: -14px;
       height: calc(100% + 2px);
+      width: calc(100% - 30px);
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: clip;
 
       .title-outer {
         height: calc(100% + 2px);
